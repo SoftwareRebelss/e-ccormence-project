@@ -8,7 +8,7 @@ Thanks for checking out this front-end coding challenge.
 ## Below is my final solution! 👋
 ![My solution in mockup view](src/assets/desktop-preview.jpg)
 
-If you want to view my solution click this link [view solution online](https://loopstudiosweb-m.pages.dev) and if you have questions or you want some help leave a comment on my site [ask questions here](https://masiko-d.pages.pages.dev)  and i will try to **#help** you.
+If you want to view my solution click this link [view solution online](https://e-onlinestore.pages.dev/) and if you have questions or you want some help leave a comment on my site [ask questions here](https://masiko-d.pages.pages.dev)  and i will try to **#help** you.
 
 
 ## You need some coding challengies?! 👋
